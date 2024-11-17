@@ -3,3 +3,4 @@ This is a great start for me into my way of unlocking new skills on Python, whic
 I post here daily my work on Python.
 100 days 100 projects
 Doing the course from Udemy, The mentor is Dr.Angela Yu.
+I use Pycharm to code.
